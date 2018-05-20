@@ -6,9 +6,10 @@ Just enter in a root word and this tool will create a sentence or phrase beginni
 
 Some of these phrases may come out as pure gibberish but it is all for [romantic]comedies sake.
 
-## Usage/Setup
+## Setup
 
-Apache tomcat 7 is needed - https://tomcat.apache.org/download-70.cgi
+Apache tomcat 7 is needed - https://tomcat.apache.org/download-70.cgi.
+
 I created everything using Eclipse.
 
 ## Example
