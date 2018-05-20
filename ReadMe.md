@@ -9,6 +9,7 @@ Some of these phrases may come out as pure gibberish but it is all for [romantic
 ## Usage/Setup
 
 Apache tomcat 7 is needed - https://tomcat.apache.org/download-70.cgi
+I created everything using Eclipse.
 
 ## Example
 ![alt text](https://user-images.githubusercontent.com/5866724/40278930-cf0c3554-5bff-11e8-840a-5d36d101eb98.PNG)
