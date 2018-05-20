@@ -8,7 +8,7 @@ Some of these phrases may come out as pure gibberish but it is all for [romantic
 
 ![alt text](https://raw.githubusercontent.com/ajm2dr/ShakespeareSoup/master/WebContent/imgs/examples/shake.png)
 
-![alt text]((/../ShakespeareSoup/WebContent/imgs/examples/shake.PNG)
+![alt text](/../ShakespeareSoup/WebContent/imgs/examples/shake.PNG)
 
 
 ## License
