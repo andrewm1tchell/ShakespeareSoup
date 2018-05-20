@@ -1,6 +1,6 @@
 # Shakespeare Soup
 
-Formulate sentences using directed graphs and Shakespeare's timeless works!
+Java Web App to formulate sentences using directed graphs and Shakespeare's timeless works!
 
 Just enter in a root word and this tool will create a sentence or phrase beginning with you word.
 
