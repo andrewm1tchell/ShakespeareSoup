@@ -2,9 +2,13 @@
 
 Java Web App to formulate sentences using directed graphs and Shakespeare's timeless works!
 
+Head to http://shakespearesoup.org/ to see it in action
+
 Just enter in a root word and this tool will create a sentence or phrase beginning with you word.
 
 Some of these phrases may come out as pure gibberish but it is all for [romantic]comedies sake.
+
+This was created using directed graphs as a way to better understand there usage and structure.
 
 ## Setup
 
