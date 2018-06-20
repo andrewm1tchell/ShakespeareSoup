@@ -22,9 +22,9 @@
 	<text id="error"></text></br>
 	<input type="radio" name="text" value="merchantofvenice" checked> The Merchant of Venice
 	<input type="radio" name="text" value="merrywives"> The Merry Wives of Windsor
-	<input type="radio" name="text" value="macbeth"> Macbeth  
+	<input type="radio" name="text" value="macbeth"> Macbeth
 	<div id="response"></div>
-	
+
 	<br><br><img src="${pageContext.request.contextPath}/imgs/s1.png" id="shakespeare">
 </body>
 </html>
